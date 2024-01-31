@@ -5,6 +5,10 @@
  * Plugin URI: https://budiharyono.id/
  * Description: Bulk update posts
  * Version: 1.0.0
+ * Author: Budi Haryono
+ * Author URI: https://budiharyono.id/
+ * License: GPL2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 defined('ABSPATH') or die('No script kiddies please!');

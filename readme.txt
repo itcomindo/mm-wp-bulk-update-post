@@ -1,0 +1,1 @@
+MM WP Bulk Update Post adalah plugin untuk melakukan update (merubah) tanggal post original menjadi tanggal yang sesuai dengan tanggal saat ini.
